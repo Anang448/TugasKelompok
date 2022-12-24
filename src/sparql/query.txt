@@ -1,0 +1,22 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX data: <http://www.semanticweb.org/asus/ontologies/2022/11/universitas#>
+SELECT  ?Universitas ?Alamat ?Fakultas ?ProgramStudi ?Jenis ?Logo ?ID
+	WHERE { 
+		?attribut data:mempunyai ?logo .
+		?logo data:Logo ?Logo .
+		?logo data:dipunyai ?universitas.
+		?universitas data:NamaUniversitas ?Universitas.
+		?universitas data:jenis ?jenis .
+		?jenis data:Jenis ?Jenis .
+		?universitas data:memiliki ?alamat .
+		?alamat data:Alamat ?Alamat .
+		?universitas data:terdapat ?fakultas.
+		?fakultas data:Fakultas ?Fakultas.
+		OPTIONAL{?fakultas data:ada ?progdi.
+			?progdi data:ProgramStudi ?ProgramStudi.}
+		OPTIONAL{?progdi data:dapat ?id.
+		?id data:Id ?ID.}
+}
