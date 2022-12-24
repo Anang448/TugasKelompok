@@ -24,7 +24,7 @@ Aplikasi ini dibuat berbasis website yang diberi nama Cari cari
 1. Siapkan dan instal semua Persyaratan
 2. Clone proyek di folder XAMPP (../xampp/htdocs)
    ```sh
-       git clone https://github.com/Syaiful-Maulana/tugas
+       git clone https://github.com/Anang448/TugasKelompok
    ```
 3. Jalankan Apache Jena Fuseki di root folder
    ```sh
@@ -37,4 +37,7 @@ Aplikasi ini dibuat berbasis website yang diberi nama Cari cari
 
 | NIM       | Name                     |
 | --------- | ------------------------ |
+| 201951242 | M. Anang Badrul Kamal    |
 | 201951243 | Muhammad Syaiful Maulana |
+| 201951251 | Nurul Shofiyah           |
+| 201951243 | Tri Astuti               |

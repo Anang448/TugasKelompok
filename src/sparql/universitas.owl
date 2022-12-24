@@ -633,7 +633,1055 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id1 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id1">
-        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01</Id>
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id10 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id10">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id100 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id100">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id101 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id101">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">101</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id102 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id102">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">102</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id103 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id103">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id104 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id104">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">104</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id105 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id105">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id106 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id106">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">106</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id107 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id107">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">107</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id108 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id108">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">108</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id109 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id109">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">109</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id11 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id11">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id110 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id110">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">110</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id111 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id111">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">111</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id112 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id112">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">112</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id113 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id113">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">113</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id114 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id114">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">114</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id115 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id115">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">115</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id116 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id116">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">116</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id117 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id117">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">117</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id118 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id118">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">118</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id119 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id119">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">119</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id12 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id12">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id120 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id120">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id121 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id121">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">121</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id122 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id122">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">122</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id123 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id123">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">123</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id124 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id124">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">124</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id125 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id125">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">125</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id126 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id126">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">126</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id127 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id127">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">127</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id128 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id128">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">128</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id129 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id129">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">129</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id13 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id13">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id130 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id130">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">130</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id131 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id131">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">131</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id132 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id132">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">132</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id14 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id14">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id15 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id15">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id16 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id16">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id17 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id17">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id18 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id18">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id19 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id19">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id2">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id20 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id20">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id21 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id21">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id22 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id22">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id23 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id23">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id24 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id24">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id25 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id25">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id26 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id26">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id27 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id27">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id28 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id28">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id29 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id29">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id3">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id30 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id30">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id31 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id31">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id32 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id32">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id33 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id33">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id34 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id34">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id35 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id35">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id36 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id36">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id37 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id37">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">37</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id38 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id38">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id39 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id39">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">39</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id4 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id4">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id40 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id40">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">40</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id41 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id41">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id42 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id42">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id43 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id43">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id44 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id44">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id45 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id45">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id46 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id46">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id47 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id47">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id48 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id48">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id49 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id49">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">49</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id5 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id5">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id50 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id50">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id51 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id51">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">51</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id52 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id52">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id53 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id53">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id54 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id54">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id55 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id55">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id56 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id56">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">56</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id57 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id57">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id58 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id58">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id59 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id59">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id6 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id6">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id60 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id60">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id61 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id61">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">61</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id62 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id62">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id63 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id63">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">63</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id64 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id64">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id65 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id65">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id66 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id66">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">66</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id67 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id67">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">67</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id68 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id68">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">68</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id69 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id69">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">69</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id7 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id7">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id70 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id70">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">70</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id71 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id71">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">71</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id72 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id72">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">72</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id73 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id73">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">73</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id74 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id74">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">74</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id75 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id75">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id76 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id76">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id77 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id77">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">77</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id78 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id78">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">78</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id79 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id79">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">79</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id8 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id8">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id80 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id80">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id81 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id81">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">81</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id82 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id82">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">82</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id83 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id83">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">83</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id84 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id84">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id85 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id85">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">85</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id86 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id86">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">86</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id87 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id87">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">87</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id88 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id88">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">88</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id89 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id89">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">89</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id9 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id9">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id90 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id90">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">90</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id91 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id91">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id92 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id92">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">92</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id93 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id93">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id94 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id94">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">94</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id95 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id95">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">95</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id96 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id96">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">96</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id97 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id97">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">97</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id98 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id98">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">98</Id>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id99 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id99">
+        <Id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">99</Id>
     </owl:NamedIndividual>
     
 
@@ -700,7 +1748,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#logo3">
         <dipunyai rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#universitas3"/>
-        <Logo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://unisnu.ac.id/assets/media/logo-unisnu-jepara26m.png</Logo>
+        <Logo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_Institut_Agama_Islam_Negeri_Kudus_Kudus.png</Logo>
     </owl:NamedIndividual>
     
 
@@ -709,7 +1757,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#logo4">
         <dipunyai rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#universitas4"/>
-        <Logo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_Institut_Agama_Islam_Negeri_Kudus_Kudus.png</Logo>
+        <Logo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://unisnu.ac.id/assets/media/logo-unisnu-jepara26m.png</Logo>
     </owl:NamedIndividual>
     
 
@@ -735,6 +1783,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi10 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi10">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id10"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hukum - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -743,6 +1792,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi100 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi100">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id100"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Guru PAUD - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -751,6 +1801,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi101 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi101">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id101"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Guru Sekolah Dasar - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -759,6 +1810,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi102 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi102">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id102"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Komunikasi dan Penyiaran Islam - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -767,6 +1819,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi103 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi103">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id103"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manajemen - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -775,6 +1828,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi104 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi104">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id104"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Akuntansi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -783,6 +1837,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi105 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi105">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id105"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ekonomi Islam - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -791,6 +1846,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi106 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi106">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id106"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Desain Produk - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -799,6 +1855,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi107 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi107">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id107"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Industri - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -807,6 +1864,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi108 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi108">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id108"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Informatika - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -815,6 +1873,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi109 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi109">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id109"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sistem Informasi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -823,6 +1882,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi11 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi11">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id11"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Dasar - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -831,6 +1891,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi110 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi110">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id110"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Elektro - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -839,6 +1900,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi111 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi111">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id111"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Sipil - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -847,6 +1909,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi112 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi112">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id112"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Desain Komunikasi Visual - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -855,6 +1918,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi113 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi113">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id113"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Budidaya Perairan - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -863,6 +1927,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi114 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi114">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id114"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Arsitektur - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -871,6 +1936,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi115 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi115">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id115"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Sipil - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -879,6 +1945,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi116 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi116">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id116"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Mesin - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -887,6 +1954,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi117 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi117">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id117"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Elektro - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -895,6 +1963,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi118 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi118">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id118"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Industri - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -903,6 +1972,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi119 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi119">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id119"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manajemen - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -911,6 +1981,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi12 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi12">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id12"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Bahasa Inggris - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -919,6 +1990,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi120 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi120">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id120"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Akuntansi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -927,6 +1999,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi121 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi121">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id121"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manajemen Perusahaan - D3</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -935,6 +2008,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi122 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi122">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id122"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Akuntansi - D3</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -943,6 +2017,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi123 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi123">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id123"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manajemen - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -951,6 +2026,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi124 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi124">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id124"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Akuntansi - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -959,6 +2035,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi125 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi125">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id125"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manajemen - S3</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -967,6 +2044,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi126 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi126">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id126"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ilmu Komunikasi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -975,6 +2053,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi127 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi127">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id127"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Informatika - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -983,6 +2062,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi128 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi128">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id128"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sistem Informasi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -991,6 +2071,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi129 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi129">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id129"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Psikologi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -999,6 +2080,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi13 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi13">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id13"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bimbingan Konseling - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1007,6 +2089,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi130 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi130">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id130"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Desain Produk - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1015,6 +2098,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi131 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi131">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id131"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Desain Interior - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1023,6 +2107,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi132 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi132">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id132"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Desain Komunikasi Visual - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1031,6 +2116,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi14 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi14">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id14"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Guru Sekolah Dasar - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1039,6 +2125,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi15 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi15">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id15"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Bahasa dan Sastra Indonesia - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1047,6 +2134,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi16 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi16">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id16"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Matematika - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1055,6 +2143,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi17 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi17">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id17"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Agroteknologi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1063,6 +2152,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi18 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi18">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id18"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Psikologi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1071,6 +2161,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi19 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi19">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id19"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Telekomunikasi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1079,6 +2170,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi2 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi2">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id2"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Elektro - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1087,6 +2179,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi20 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi20">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id20"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Elektro - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1095,6 +2188,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi21 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi21">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id21"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Fisika - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1103,6 +2197,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi22 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi22">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id22"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Komputer</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1111,6 +2206,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi23 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi23">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id23"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Biomedis</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1119,6 +2215,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi24 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi24">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id24"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Sistem Energi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1127,6 +2224,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi25 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi25">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id25"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Elektro - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1135,6 +2233,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi26 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi26">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id26"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sistem Informasi</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1143,6 +2242,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi27 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi27">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id27"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Informasi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1151,6 +2251,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi28 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi28">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id28"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sistem Informasi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1159,6 +2260,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi29 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi29">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id29"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Logistik - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1167,6 +2269,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi3 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi3">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id3"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Mesin - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1175,6 +2278,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi30 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi30">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id30"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Industri - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1183,6 +2287,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi31 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi31">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id31"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sistem Informasi - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1191,6 +2296,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi32 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi32">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id32"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Informatika - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1199,6 +2305,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi33 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi33">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id33"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknologi Informasi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1207,6 +2314,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi34 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi34">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id34"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rekayasa Perangkat Lunak - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1215,6 +2323,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi35 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi35">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id35"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PJJ Informatika - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1223,6 +2332,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi36 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi36">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id36"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sains Data - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1231,6 +2341,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi37 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi37">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id37"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Informatika - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1239,6 +2350,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi38 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi38">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id38"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ilmu Forensik - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1247,6 +2359,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi39 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi39">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id39"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Informatika - S3</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1255,6 +2368,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi4 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi4">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id4"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sistem Informasi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1263,6 +2377,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi40 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi40">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id40"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manajemen - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1271,6 +2386,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi41 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi41">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id41"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Akuntansi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1279,6 +2395,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi42 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi42">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id42"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manajemen - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1287,6 +2404,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi43 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi43">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id43"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PJJ Manajemen - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1295,6 +2413,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi44 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi44">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id44"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Administrasi Bisnis - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1303,6 +2422,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi45 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi45">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id45"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ilmu Komunikasi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1311,6 +2431,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi46 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi46">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id46"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hubungan Masyarakat Digital - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1319,6 +2440,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi47 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi47">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id47"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penyiaran Digital - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1327,6 +2449,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi48 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi48">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id48"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ilmu Komunikasi - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1335,6 +2458,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi49 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi49">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id49"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Administrasi Bisnis - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1343,6 +2467,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi5 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi5">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id5"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknik Industri - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1351,6 +2476,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi50 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi50">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id50"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Desain Komunikasi Visual - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1359,6 +2485,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi51 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi51">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id51"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Desain Produk - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1367,6 +2494,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi52 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi52">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id52"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Desain Interior - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1375,6 +2503,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi53 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi53">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id53"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriya - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1383,6 +2512,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi54 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi54">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id54"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seni Rupa - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1391,6 +2521,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi55 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi55">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id55"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Desain - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1399,6 +2530,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi56 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi56">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id56"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknologi Telekomunikasi - D3</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1407,6 +2539,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi57 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi57">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id57"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rekayasa Perangkat Lunak Aplikasi - D3</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1415,6 +2548,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi58 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi58">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id58"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sistem Informasi - D3</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1423,6 +2557,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi59 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi59">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id59"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sistem Informasi Akuntansi - D3</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1431,6 +2566,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi6 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi6">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id6"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Managemen - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1439,6 +2575,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi60 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi60">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id60"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teknologi Komputer - D3</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1447,6 +2584,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi61 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi61">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id61"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manajemen Pemasaran - D3</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1455,6 +2593,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi62 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi62">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id62"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Perhotelan - D3</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1463,6 +2602,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi63 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi63">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id63"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terapan Teknologi Rekayasa Multimedia - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1471,6 +2611,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi64 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi64">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id64"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hukum Keluarga islam - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1479,6 +2620,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi65 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi65">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id65"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hukum Ekonomi Syariah - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1487,6 +2629,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi66 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi66">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id66"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Agama Islam - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1495,6 +2638,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi67 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi67">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id67"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Bahasa Arab - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1503,6 +2647,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi68 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi68">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id68"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidkan Guru Madrasah Ibtidaiyah - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1511,6 +2656,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi69 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi69">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id69"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Islam Anak Usia Dini - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1519,6 +2665,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi7 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi7">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id7"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Managemen - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1527,6 +2674,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi70 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi70">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id70"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tadris Bahasa Inggris - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1535,6 +2683,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi71 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi71">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id71"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tadris Matematika - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1543,6 +2692,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi72 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi72">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id72"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tadris IPA - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1551,6 +2701,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi73 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi73">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id73"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tadris Biologi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1559,6 +2710,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi74 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi74">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id74"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tadris IPS - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1567,6 +2719,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi75 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi75">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id75"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bimbingan Konseling Pendidikan Islam - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1575,6 +2728,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi76 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi76">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id76"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bimbingan Konseling Islam - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1583,6 +2737,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi77 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi77">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id77"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Komunikasi dan Penyiaran Islam - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1591,6 +2746,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi78 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi78">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id78"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manajemen Dakwah - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1599,6 +2755,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi79 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi79">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id79"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pengembangan Masyarakat Islam - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1607,6 +2764,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi8 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi8">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id8"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Akuntansi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1615,6 +2773,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi80 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi80">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id80"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pemikiran Politik Islam - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1623,6 +2782,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi81 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi81">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id81"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ekonomi Syariah - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1631,6 +2791,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi82 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi82">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id82"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manajemen Bisnis Syariah - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1639,6 +2800,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi83 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi83">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id83"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manajemen Zakat dan Wakaf - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1647,6 +2809,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi84 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi84">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id84"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Perbankan Syariah - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1655,6 +2818,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi85 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi85">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id85"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Akuntansi Syariah - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1663,6 +2827,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi86 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi86">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id86"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ilmu Al-Qur&apos;an dan Hadist - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1671,6 +2836,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi87 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi87">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id87"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Akidah dan Filsafat Islam - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1679,6 +2845,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi88 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi88">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id88"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tasawuf dan Psikoterapi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1687,6 +2854,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi89 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi89">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id89"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ilmu Hadist - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1695,6 +2863,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi9 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi9">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id9"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magister Hukum - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1703,6 +2872,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi90 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi90">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id90"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ekonomi Syariah - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1711,6 +2881,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi91 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi91">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id91"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manajemen Pendidikan Islam - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1719,6 +2890,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi92 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi92">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id92"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hukum Keluarga Islam - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1727,6 +2899,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi93 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi93">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id93"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Guru Madrasah Ibtidaiyah - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1735,6 +2908,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi94 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi94">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id94"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Agama Islam - S2</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1743,6 +2917,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi95 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi95">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id95"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hukum Keluarga Islam - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1751,6 +2926,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi96 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi96">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id96"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Perbankan Syariah - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1759,6 +2935,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi97 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi97">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id97"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Akreditasi - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1767,6 +2944,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi98 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi98">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id98"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidikan Agama Islam - S1</ProgramStudi>
     </owl:NamedIndividual>
     
@@ -1775,6 +2953,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi99 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#progdi99">
+        <dapat rdf:resource="http://www.semanticweb.org/asus/ontologies/2022/11/universitas#id99"/>
         <ProgramStudi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pendidkan Bahasa Inggris - S1</ProgramStudi>
     </owl:NamedIndividual>
     
